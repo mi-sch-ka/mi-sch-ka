@@ -15,10 +15,10 @@ I want to make a little game this year, maybe a math learning app for kids - hop
 
 <div align="left">
  
- <a href="https://github.com/chakravarthi-v">
+ <a href="https://github.com/mi-sch-ka">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mi-sch-ka&theme=algolia&hide_langs_below=1" height="190px"/>
   </a>
-  <a href="https://github.com/chakravarthi-v">
+  <a href="https://github.com/mi-sch-ka">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mi-sch-ka&count_private=true&hide=stars&show_icons=true&theme=algolia&line_height=27" alt="Chakravarthi's github stats" height="190px" />
   </a>
  </div>
