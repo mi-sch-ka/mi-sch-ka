@@ -1,4 +1,4 @@
-<img src="thumbnail.png" width="450px"/>
+<img src="thumbnail.png"/>
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/mi-sch-ka)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://de.linkedin.com/in/michael-krause-06a3ba20b/)
