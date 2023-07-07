@@ -5,12 +5,6 @@
 
 &nbsp;
 
-<h3>🥅 Goals for 2022</h3>
-
-I want to make a little game this year, maybe a math learning app for kids - hopefully i got time for this
-
-&nbsp;
-
 <h3> 💫 Github Stats </h3>
 
 <div align="left">
