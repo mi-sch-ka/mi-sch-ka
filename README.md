@@ -7,8 +7,12 @@
 
 <h3> 💫 Github Stats </h3>
 
+<div class="badge-base LI-profile-badge" data-locale="de_DE" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="michael-krause-06a3ba20b" data-version="v1">
+ <a class="badge-base__link LI-simple-link" href="https://de.linkedin.com/in/michael-krause-06a3ba20b?trk=profile-badge">Michael Krause</a>
+</div>
+
 <div align="left">
- 
+
  <a href="https://github.com/mi-sch-ka">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mi-sch-ka&theme=algolia&hide_langs_below=1" height="190px"/>
   </a>
