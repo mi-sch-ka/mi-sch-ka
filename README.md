@@ -15,6 +15,8 @@
   <a href="https://github.com/mi-sch-ka">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mi-sch-ka&count_private=true&hide=stars&show_icons=true&theme=algolia&line_height=27" alt="Chakravarthi's github stats" height="190px" />
   </a>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mi-sch-ka&theme=algolia" alt="mi-sch-ka" /></p>
  </div>
+
 
  
