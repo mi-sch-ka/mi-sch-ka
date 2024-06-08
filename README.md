@@ -4,6 +4,17 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://de.linkedin.com/in/michael-krause-06a3ba20b/)
 
 &nbsp;
+&nbsp;
+
+👋 Hey there, I'm mi-sch-ka! 👨‍💻
+
+Welcome to my GitHub! During the day, I dive into the world of native app development and backend engineering. Off the clock, I'm trying to pushing boundaries with flutter.
+
+🚀 With many years of experience, I look forward to developing innovative solutions that improve the user experience and exceed customer expectations.
+
+🌟 Explore my repositories and let's connect!
+
+&nbsp;
 
 <h3> 💫 Github Stats </h3>
 
