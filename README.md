@@ -8,7 +8,7 @@
 
 👋 Hey there, I'm mi-sch-ka! 👨‍💻
 
-Welcome to my GitHub! During the day, I dive into the world of native app development and backend engineering. Off the clock, I'm trying to pushing boundaries with flutter.
+Welcome to my GitHub! During the day, I dive into the world of native app development and backend engineering. Off the clock, I'm pushing the boundaries with Flutter.
 
 🚀 With many years of experience, I look forward to developing innovative solutions that improve the user experience and exceed customer expectations.
 
